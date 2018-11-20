@@ -1,0 +1,29 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikes94116/FriendFinder.git"
+  },
+  "author": "Mike Sevik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikes94116/FriendFinder/issues"
+  },
+  "homepage": "https://raw.githubusercontent.com/mikes94116/FriendFinder/master/README.md",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.11.1",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "6.11.1"
+  }
+}
