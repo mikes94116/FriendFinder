@@ -6,3 +6,5 @@ The user enters the page that leads to a survey. When the user submits the surve
 
 Play here...
 https://quiet-hamlet-72323.herokuapp.com/
+
+![](https://raw.githubusercontent.com/mikes94116/FriendFinder/master/FriendFinder.png)
